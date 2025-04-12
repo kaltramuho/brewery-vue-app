@@ -19,8 +19,8 @@ A Vue.js application to explore breweries using the Open Brewery API. The app al
 
 ## Project clone
 ```
-git clone https://github.com/
-cd brewery-explorer
+git clone https://github.com/kaltramuho/brewery-vue-app.git
+cd brewery-vue-app
 ```
 
 ## Project setup
